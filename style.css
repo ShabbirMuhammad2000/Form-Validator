@@ -55,7 +55,7 @@ input:valid {
   border: 1px solid green;
 }
 
-inpuit:invalid {
+input:invalid {
   border: 1px solid red;
 }
 
